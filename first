@@ -1,0 +1,5 @@
+mkdir cloud-native-labs
+cd cloud-native-labs
+curl -skL -o projects.tar.gz https://github.com/na-se/cloud-native-labs/archive/ocp-3.10.tar.gz
+tar xzvf projects.tar.gz
+cd cloud-native-labs-ocp-3.10/
